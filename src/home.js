@@ -8,7 +8,7 @@ function home() {
   const restaurantDescription = document.createElement("p");
 
   document.title = "Weenie Hut Jr's";
-  restaurantName.textContent = "Weenie Hut Jr's";
+  restaurantName.textContent = "Welcome to Weenie Hut Jr's!";
   restaurantImage.src = restaurantImg;
   restaurantDescription.textContent =
     "The best restaurant for weenies and nerds";

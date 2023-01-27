@@ -2,6 +2,7 @@ import home from "./home";
 import menu from "./menu";
 import contact from "./contact";
 import pageLoad from "./pageLoad";
+import './style.css';
 
 pageLoad();
 
