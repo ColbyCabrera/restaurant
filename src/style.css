@@ -1,59 +1,59 @@
 @font-face {
-    font-family: 'Spongeboy Font';
-    src: url('./SpongeboyRegular.otf') format('opentype');
-    font-weight: 600;
-    font-style: normal;
+  font-family: "Spongeboy Font";
+  src: url("./SpongeboyRegular.otf") format("opentype");
+  font-weight: 600;
+  font-style: normal;
 }
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 html {
-    font-size: 62.5%;
+  font-size: 62.5%;
 }
 
 body {
-    font-family: 'Spongeboy Font';
-    color: #b870fc;
-    background-color: #0e4201;
+  font-family: "Spongeboy Font";
+  color: #b870fc;
+  background-color: #0e4201;
 }
 
 h1 {
-    font-size: 6rem;
-    text-align: center;
+  font-size: 6rem;
+  text-align: center;
 }
 
 h3 {
-    font-size: 4rem;
+  font-size: 4rem;
 }
 
 ul {
-    list-style: none;
-    display: flex;
-    justify-content: center;
-    width: 100%;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  width: 100%;
 }
 
 li {
-    font-size: 3rem;
-    margin: 2rem 2.4rem;
+  font-size: 3rem;
+  margin: 2rem 2.4rem;
 }
 
 img {
-    width: 50%;
-    margin: 2.4rem 0;
-    border-radius: 20px;
+  width: 50%;
+  margin: 2.4rem 0;
+  border-radius: 20px;
 }
 
 #content {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 p {
-    font-size: 2.4rem;
+  font-size: 2.4rem;
 }

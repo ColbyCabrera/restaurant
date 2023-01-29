@@ -8,10 +8,8 @@ function contact() {
 
   document.title = "Weenie Hut Jr's";
   pageTitle.textContent = "Contact Us";
-  phoneNumber.textContent =
-    "372-423-3243";
-    address.textContent =
-    "4320 Wimp Street BB";
+  phoneNumber.textContent = "372-423-3243";
+  address.textContent = "4320 Wimp Street BB";
 
   content.appendChild(pageTitle);
   content.appendChild(phoneNumber);

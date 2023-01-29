@@ -26,7 +26,8 @@ function menu() {
   menuItemDesc2.textContent = "A delicious meal built in your image!";
   menuItemPrice2.textContent = "$5.99";
   menuItemTitle3.textContent = "Bucket of Chum";
-  menuItemDesc3.textContent = "So incredibly nutritious it might make you less lame!";
+  menuItemDesc3.textContent =
+    "So incredibly nutritious it might make you less lame!";
   menuItemPrice3.textContent = "$20.99";
   content.appendChild(pageTitle);
   content.appendChild(menu);
